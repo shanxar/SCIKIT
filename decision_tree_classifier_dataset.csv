@@ -1,0 +1,51 @@
+Age,Region,Product Type,Usage,Device,Customer Type
+23,North,Basic,Low,Mobile,Casual
+34,South,Premium,High,Desktop,Power User
+28,East,Basic,Medium,Tablet,Occasional
+42,West,Enterprise,High,Desktop,Enterprise
+31,North,Premium,Medium,Mobile,Power User
+26,South,Basic,Low,Mobile,Casual
+45,East,Enterprise,High,Tablet,Enterprise
+22,West,Basic,Medium,Desktop,Casual
+38,North,Premium,High,Mobile,Power User
+33,South,Enterprise,Medium,Desktop,Enterprise
+27,West,Premium,Low,Mobile,Occasional
+25,East,Basic,Medium,Tablet,Occasional
+36,South,Premium,High,Desktop,Power User
+50,North,Enterprise,High,Desktop,Enterprise
+29,East,Basic,Low,Mobile,Occasional
+24,South,Basic,Medium,Tablet,Casual
+41,West,Premium,High,Desktop,Power User
+35,East,Enterprise,Medium,Tablet,Enterprise
+30,North,Premium,Low,Mobile,Occasional
+21,South,Basic,Medium,Mobile,Casual
+39,East,Enterprise,High,Desktop,Enterprise
+32,West,Premium,Medium,Tablet,Power User
+27,North,Basic,Low,Mobile,Casual
+43,South,Enterprise,High,Desktop,Enterprise
+31,East,Basic,Medium,Tablet,Occasional
+40,West,Premium,High,Mobile,Power User
+22,North,Basic,Low,Mobile,Casual
+36,South,Premium,Medium,Desktop,Power User
+28,East,Enterprise,Low,Tablet,Enterprise
+33,West,Basic,Medium,Desktop,Casual
+26,North,Premium,High,Mobile,Power User
+44,South,Enterprise,High,Desktop,Enterprise
+29,East,Basic,Medium,Tablet,Occasional
+23,West,Premium,Low,Mobile,Occasional
+30,North,Enterprise,Medium,Desktop,Enterprise
+25,South,Basic,Low,Tablet,Casual
+38,East,Premium,High,Mobile,Power User
+31,West,Enterprise,High,Desktop,Enterprise
+27,North,Basic,Medium,Mobile,Casual
+34,South,Premium,Medium,Tablet,Power User
+28,East,Basic,Low,Tablet,Occasional
+41,West,Enterprise,High,Desktop,Enterprise
+26,North,Premium,Low,Mobile,Occasional
+39,South,Basic,Medium,Tablet,Casual
+35,East,Enterprise,High,Desktop,Enterprise
+30,West,Premium,Medium,Mobile,Power User
+24,North,Basic,Low,Tablet,Casual
+37,South,Enterprise,High,Desktop,Enterprise
+32,East,Premium,Medium,Mobile,Power User
+22,West,Basic,Low,Mobile,Casual
