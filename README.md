@@ -35,5 +35,7 @@ Model tuning using GridSearchCV
 
 Performance evaluation with standard metrics
 
+Visualization using matplotlib
+
 ✅Use Case Example
 All models are demonstrated on datasets like the Heart Disease Dataset, showcasing classification workflows from start to finish
