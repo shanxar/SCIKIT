@@ -9,6 +9,8 @@ Decision Tree Classifier
 
 Naive Bayes
 
+KMeans Clustering
+
 (More to be added: Random Forest, SVM, Gradient Boosting, etc.)
 
 ✅ Key Features
